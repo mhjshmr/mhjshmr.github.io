@@ -63,7 +63,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Active Directory: Performed Kerberoasting, Pass-the-Hash, and lateral movement using BloodHound, Mimikatz, and PowerView.
 - System Exploitation: Gained root/system access on misconfigured Linux/Windows hosts using Metasploit and manual privilege escalation.
 
-### [Virtual Cybersecurity Experiences](#)
+### Virtual Cybersecurity Experiences
 - **Datacom** – Network security & incident response tasks.
 - **Mastercard** – Phishing detection and user awareness training design.
 - **Tata** – Security operations & vulnerability assessment practice.
