@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MINHAJ SHAMEER AHAMED | Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0d1117;
+      color: #e6edf3;
+      overflow-x: hidden;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      position: relative;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 4rem 1rem 3rem;
+    }
+
+    .hero img {
+      width: 200px;
+      height: 200px;
+      max-width: 400px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #58a6ff;
+      box-shadow: 0 0 15px rgba(88, 166, 255, 0.5);
+      margin-bottom: 1rem;
+    }
+
+    .hero h1 {
+      font-size: 3rem;
+      font-weight: 900;
+      color: #58a6ff;
+      animation: headingColorPulse 3s infinite;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      color: #c9d1d9;
+      margin-top: 0.5rem;
+    }
+
+    .nav {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+      margin-top: 3rem;
+    }
+
+    .nav a {
+      color: #58a6ff;
+      font-weight: 700;
+      text-decoration: none;
+      border: 2px solid #58a6ff;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+    }
+
+    .nav a:hover {
+      background-color: #58a6ff;
+      color: #0d1117;
+      box-shadow: 0 0 15px #58a6ff88;
+    }
+
+    section {
+      margin-top: 4rem;
+    }
+
+    section h2 {
+      font-size: 2rem;
+      color: #58a6ff;
+      margin-bottom: 1rem;
+    }
+
+    section p, ul {
+      font-size: 1rem;
+      line-height: 1.6;
+      color: #c9d1d9;
+    }
+
+    ul {
+      padding-left: 1.5rem;
+    }
+
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .skill-card {
+      background-color: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 1rem 1.2rem;
+      box-shadow: 0 0 8px rgba(88, 166, 255, 0.1);
+    }
+
+    .skill-card h3 {
+      font-size: 1.3rem;
+      color: #79c0ff;
+      margin-bottom: 0.5rem;
+    }
+
+    .skill-card ul {
+      list-style-type: square;
+      padding-left: 1.2rem;
+    }
+
+    .skill-card ul li {
+      margin-bottom: 0.4rem;
+    }
+
+    .certification-card, .project-card {
+      background-color: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 12px;
+      padding: 1rem 1.5rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 0 8px rgba(88, 166, 255, 0.1);
+    }
+
+    .project-card a {
+      color: #58a6ff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .project-card a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <section class="hero">
+      <img src="./Minhaj_Profile.jpg" alt="Minhaj Shameer Photo">
+      <h1>MINHAJ SHAMEER AHAMED</h1>
+      <p>Penetration Tester | Cyber Security Analyst</p>
+      <div class="nav">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#contact">Contact</a>
+        <a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/MINHAJ.SHAMEER.RESUME.pdf" target="_blank">Download Resume</a>
+      </div>
+    </section>
+
+    <section id="about">
+      <h2>About Me</h2>
+	<p>I am a Penetration Tester & Cybersecurity Analyst with hands-on experience in VAPT, Web and Network Security, and Threat Analysis. Skilled with tools like Metasploit, Burp Suite, Nmap, Wireshark, and Nessus, I specialize in identifying vulnerabilities and strengthening systems against real-world attacks.</p>
+	<p>Alongside offensive testing, I work on defensive security, scripting, and secure software development, with projects like MetaWarden, a Flask-based metadata detection tool. Currently pursuing CEH v13 and advanced penetration testing training, I aim to contribute to building safer and more resilient digital systems.</p>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="project-card"><a href="https://github.com/mhjshmr/MetaWarden" target="_blank">MetaWarden: Metadata Detection & Privacy Risk Analysis Tool – Final Year Project </a></div>
+      <div class="project-card"><a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/Projects/EMULATING%20HONEYPOTS.pdf" target="_blank">Emulating Honeypots — A Practical Approac</a></div>
+      <div class="project-card"><a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/Projects/DDOS%20Attack%20Emulation.pdf" target="_blank">DDoS Attack Simulation & Mitigation</a></div>
+      <div class="project-card"><a href="https://github.com/mhjshmr/mhjshmr.io/blob/main/Projects/RSA%20Key%20Generator.pdf" target="_blank">RSA Private Key Generator</a></div>
+      <div class="project-card"><a href="" target="_blank">Hands-on Penetration Testing Lab (HackTheBox, TryHackMe, PortSwigger, VulHub)</a></div>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-card">
+          <h3>🔓 Offensive Security</h3>
+          <ul>
+            <li>Penetration Testing (Web, Network, Host)</li>
+            <li>Metasploit, Sqlmap, Burp Suite</li>
+            <li>Exploit Development, CTFs</li>
+          </ul>
+        </div>
+        <div class="skill-card">
+          <h3>🛡️ Defensive Security</h3>
+          <ul>
+            <li>Intrusion Detection & Incident Response</li>
+            <li>Firewall & Network Hardening</li>
+            <li>Log Analysis & Threat Hunting</li>
+          </ul>
+        </div>
+        <div class="skill-card">
+          <h3>🏢 Active Directory & Windows</h3>
+          <ul>
+            <li>AD Exploitation, PowerShell</li>
+            <li>BloodHound, SharpHound, Mimikatz</li>
+          </ul>
+        </div>
+        <div class="skill-card">
+          <h3>⚙️ Scripting & Automation</h3>
+          <ul>
+            <li>Python, Bash, PowerShell</li>
+            <li>JavaScript (Basic to Intermediate)</li>
+          </ul>
+        </div>
+        <div class="skill-card">
+          <h3>🔐 Cryptography</h3>
+          <ul>
+            <li>Cryptographic Algorithms</li>
+            <li>Secure Communication Protocols</li>
+          </ul>
+        </div>
+        <div class="skill-card">
+          <h3>🧰 Tools & Frameworks</h3>
+          <ul>
+            <li>Nmap, Wireshark, CrackMapExec</li>
+            <li>Responder, Mimikatz</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="certifications">
+      <h2>Certifications</h2>
+      <div class="certification-card">Certified Ethical Hacker (CEH) – LinkedIn</div>
+      <div class="certification-card">Advanced Penetration Tester (APT) - RedTeamHacker Academy (In Progress)</div>
+      <div class="certification-card">Introduction to Cybersecurity – Cisco</div>
+      <div class="certification-card">Metasploit Essentials and Penetration Testing – LinkedIn</div>
+      <div class="certification-card">Penetration Testing Professional Certificate – Cybrary</div>
+	  <div class="certification-card">Networking Basics – Cisco</div>
+	  <div class="certification-card">SOC Fundamentals – LetsDefend</div>
+	  <div class="certification-card">Certified Ethical Hacker (CEH) v13 – EC-Council (In Progress)</div>
+	  <div class="certification-card">CompTIA Security+ (Upcoming)</div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>You can reach me via email at <a href="mailto:mhjshmrahmd@gmail.com" style="color:#58a6ff;text-decoration:underline;">mhjshmrahmd@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/mhjshmrahmd" target="_blank" style="color:#58a6ff;text-decoration:underline;">LinkedIn</a>.</p>
+      <p>Phone: <a href="tel:+971-55-5309355" style="color:#58a6ff;text-decoration:underline;">+971-55-5309355</a></p>
+      <p>GitHub: <a href="https://github.com/mhjshmr" target="_blank" style="color:#58a6ff;text-decoration:underline;">https://github.com/mhjshmr</a></p>
+    </section>
+  </div>
+</body>
+</html>
