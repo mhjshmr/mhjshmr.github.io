@@ -39,6 +39,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **[Networking Basics](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Networking%20Basics.pdf)** – Cisco
 - **[SOC Fundamentals](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/SOC%20Fundamentals.png)** – LetsDefend
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
+- **[Certified Ethical Hacker (CEH)](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** - LinkedIn Learning
 - **[Mastercard Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/MasterCard-%20Completion%20Certificate.pdf)** – Forage
 - **[DATACOM Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Datacom%20-%20Completion%20Certificate.pdf)** – Forage
 - **[TATA Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Tata-%20Completion%20Certificate.pdf)** – Forage
