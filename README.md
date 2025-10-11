@@ -43,6 +43,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **[Mastercard Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/MasterCard-%20Completion%20Certificate.pdf)** – Forage
 - **[DATACOM Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Datacom%20-%20Completion%20Certificate.pdf)** – Forage
 - **[TATA Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Tata-%20Completion%20Certificate.pdf)** – Forage
+- **[ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE™](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/SkillFront-ISO%2027001.pdf)** – SkillFront
   
 ---
 
