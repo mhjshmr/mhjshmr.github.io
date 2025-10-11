@@ -36,6 +36,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **CompTIA Security+** – *Next to Pursue – INE 
 - **[Introduction to Cybersecurity](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Introduction%20to%20Cybersecurity.pdf)** – Cisco
 - **[Penetration Testing with Metasploit](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20with%20Metasploit.jpg)** – LinkedIn Learning
+- **[ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE™](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/SkillFront-ISO%2027001.pdf)** – SkillFront
 - **[Networking Basics](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Networking%20Basics.pdf)** – Cisco
 - **[SOC Fundamentals](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/SOC%20Fundamentals.png)** – LetsDefend
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
@@ -43,7 +44,6 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **[Mastercard Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/MasterCard-%20Completion%20Certificate.pdf)** – Forage
 - **[DATACOM Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Datacom%20-%20Completion%20Certificate.pdf)** – Forage
 - **[TATA Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Tata-%20Completion%20Certificate.pdf)** – Forage
-- **[ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE™](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/SkillFront-ISO%2027001.pdf)** – SkillFront
   
 ---
 
