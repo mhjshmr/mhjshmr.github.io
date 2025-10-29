@@ -54,6 +54,11 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Built a web interface with metadata extraction, privacy scoring (EXIF: GPS, device info, timestamps), and downloadable reports.
 - Tested edge cases for robustness, achieving 97.14% detection accuracy.
 
+### [PassFortX: Password Strength Checker & Generator](https://github.com/mhjshmr/PassFortX)
+- Developed a Python-based cybersecurity tool to evaluate password strength and generate secure passwords.
+- Implemented brute-force crack-time estimation, entropy-based strength analysis, and weak password detection.
+- Integrated customizable password generation using Python’s `secrets` and `string` modules for enhanced randomness.
+
 ### DDoS Attack Simulation & Mitigation
 - Simulated DDoS attacks using hping3, LOIC, and Wireshark to study network behavior under stress.
 - Analyzed packet-level traffic and tested mitigation strategies for effectiveness.
