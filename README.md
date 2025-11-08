@@ -31,9 +31,10 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 
 ## Certifications
 
-- **Certified Ethical Hacker (CEH)** – *Training – EC-Council
-- **Advanced Penetration Tester (APT)** – *Training – RedTeam Hacker Academy
-- **CompTIA Security+** – *Next to Pursue – INE 
+- **Certified Ethical Hacker (CEH)** – *Trained – EC-Council
+- **CompTIA Security+** – *Training – CompTIA
+- **Enterprise Defense Administrator (eEDA)** – *Training – INE 
+- **[Advanced Penetration Tester (APT)](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/RedTeam-Advanced%20Penetration%20Testing-Certificate.pdf)** – RedTeam Hacker Academy
 - **[Introduction to Cybersecurity](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Introduction%20to%20Cybersecurity.pdf)** – Cisco
 - **[Penetration Testing with Metasploit](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20with%20Metasploit.jpg)** – LinkedIn Learning
 - **[ISO/IEC 27001 INFORMATION SECURITY ASSOCIATE™](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/SkillFront-ISO%2027001.pdf)** – SkillFront
