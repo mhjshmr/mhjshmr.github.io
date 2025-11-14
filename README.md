@@ -57,7 +57,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Implemented brute-force crack-time estimation, entropy-based strength analysis, and weak password detection.
 - Integrated customizable password generation using Python’s `secrets` and `string` modules for enhanced randomness.
 
-### DDoS Attack Simulation & Mitigation
+### [DDoS Attack Simulation & Mitigation](https://github.com/mhjshmr/mhjshmr/blob/main/Projects/DDOS%20Attack%20Emulation.pdf)
 - Simulated DDoS attacks using hping3, LOIC, and Wireshark to study network behavior under stress.
 - Analyzed packet-level traffic and tested mitigation strategies for effectiveness.
 - Documented results and recommended optimal countermeasures to improve network security.
