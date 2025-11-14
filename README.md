@@ -42,9 +42,6 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - **[SOC Fundamentals](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/SOC%20Fundamentals.png)** – LetsDefend
 - **[Penetration Testing Professional Certificate](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Penetration%20Testing%20Professional%20Certificate%20by%20Cybrary.jpg)** – Cybrary
 - **[Certified Ethical Hacker (CEH)](https://github.com/mhjshmr/mhjshmr.io/blob/main/Certificates/Certified%20Ethical%20Hacker%20(CEH).jpg)** - LinkedIn Learning
-- **[Mastercard Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/MasterCard-%20Completion%20Certificate.pdf)** – Forage
-- **[DATACOM Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Datacom%20-%20Completion%20Certificate.pdf)** – Forage
-- **[TATA Virtual Job Simulation](https://github.com/mhjshmr/mhjshmr.github.io/blob/main/Certificates/Tata-%20Completion%20Certificate.pdf)** – Forage
   
 ---
 
@@ -71,7 +68,7 @@ cybersecurity skills. Plans to pursue CompTIA Security+ post-CEH.
 - Active Directory: Performed Kerberoasting, Pass-the-Hash, and lateral movement using BloodHound, Mimikatz, and PowerView.
 - System Exploitation: Gained root/system access on misconfigured Linux/Windows hosts using Metasploit and manual privilege escalation.
 
-### Virtual Cybersecurity Experiences
+### [Virtual Cybersecurity Experiences](https://github.com/mhjshmr/mhjshmr/tree/main/Certificates/Virtual%20Cybersecurity%20Experiences)
 - **Datacom** – Network security & incident response tasks.
 - **Mastercard** – Phishing detection and user awareness training design.
 - **Tata** – Security operations & vulnerability assessment practice.
